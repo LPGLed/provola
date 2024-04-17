@@ -1,4 +1,4 @@
-# This is a test file of the OTA code
+# This is a test file of the OTA code modificato
 
 print('Hello World')
 
